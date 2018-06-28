@@ -1,0 +1,114 @@
+.team {
+  position: relative;
+  display: inline-block;
+  line-height: 1em;
+  background-size: contain;
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-left: 1.75em;
+}
+.country {
+  position: relative;
+  display: inline-block;
+  line-height: 1em;
+  background-size: 24px;
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-left: 2em;
+}
+.flag-arg {
+  background-image: url(../flags_png/arg.png);
+}
+.flag-aus {
+  background-image: url(../flags_png/aus.png);
+}
+.flag-bel {
+  background-image: url(../flags_png/bel.png);
+}
+.flag-brz {
+  background-image: url(../flags_png/brz.png);
+}
+.flag-col {
+  background-image: url(../flags_png/col.png);
+}
+.flag-crc {
+  background-image: url(../flags_png/crc.png);
+}
+.flag-cro {
+  background-image: url(../flags_png/cro.png);
+}
+.flag-den {
+  background-image: url(../flags_png/den.png);
+}
+.flag-egy {
+  background-image: url(../flags_png/egy.png);
+}
+.flag-eng {
+  background-image: url(../flags_png/eng.png);
+}
+.flag-fra {
+  background-image: url(../flags_png/fra.png);
+}
+.flag-ger {
+  background-image: url(../flags_png/ger.png);
+}
+.flag-ice {
+  background-image: url(../flags_png/ice.png);
+}
+.flag-irn {
+  background-image: url(../flags_png/irn.png);
+}
+.flag-jpn {
+  background-image: url(../flags_png/jpn.png);
+}
+.flag-mex {
+  background-image: url(../flags_png/mex.png);
+}
+.flag-mor {
+  background-image: url(../flags_png/mor.png);
+}
+.flag-nga {
+  background-image: url(../flags_png/nga.png);
+}
+.flag-pan {
+  background-image: url(../flags_png/pan.png);
+}
+.flag-per {
+  background-image: url(../flags_png/per.png);
+}
+.flag-pol {
+  background-image: url(../flags_png/pol.png);
+}
+.flag-por {
+  background-image: url(../flags_png/por.png);
+}
+.flag-rus {
+  background-image: url(../flags_png/rus.png);
+}
+.flag-ksa {
+  background-image: url(../flags_png/ksa.png);
+}
+.flag-sen {
+  background-image: url(../flags_png/sen.png);
+}
+.flag-ser {
+  background-image: url(../flags_png/ser.png);
+}
+.flag-kor {
+  background-image: url(../flags_png/kor.png);
+}
+.flag-spa {
+  background-image: url(../flags_png/spa.png);
+}
+.flag-swe {
+  background-image: url(../flags_png/swe.png);
+}
+.flag-swi {
+  background-image: url(../flags_png/swi.png);
+}
+.flag-tun {
+  background-image: url(../flags_png/tun.png);
+}
+.flag-uru {
+  background-image: url(../flags_png/uru.png);
+}

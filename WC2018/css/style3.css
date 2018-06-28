@@ -1,0 +1,114 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+html, body {
+	/*background: #fff;*/
+	padding: 0 0 100px 0;
+	margin: 0;
+	width: 100%;
+	font-family: "Open Sans", Helvetica;
+	font-size: 0.95em;
+}
+
+body {
+	
+}
+
+h1 {
+	color: #fff;
+	background-color: #2a4491;
+	background-image: url(banner.png);
+	background-repeat: no-repeat;
+	background-position: 0 60px; 
+	background-size: cover;
+	margin: 0;
+	padding: 10px 10px 300px 10px;
+}
+
+table {
+	border-collapse: collapse;
+	table-layout: fixed;
+	width: 100%;
+}
+
+table th,
+table td {
+	padding: 0.5em 0.5em;
+	text-transform: capitalize;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+table th {
+	background: #eee;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	position: sticky;
+    	top: 0;
+	z-index: 1;
+}
+
+
+
+table th:nth-child(2) {
+	width: 250px;
+}
+
+
+table td span.versus {
+	padding: 10px;
+}
+
+table td span.correct {
+    display: block;
+	background-color: #00f000;
+}
+
+table td span.close {
+    display: block;
+	background-color: #FFFF00;
+}
+
+table td span.home {
+    display: block;
+	background-color: #33ccff;
+}
+
+table td span.draw {
+    display: block;
+	background-color: #ff9900;
+}
+
+table td span.away {
+    display: block;
+	background-color: #ff99ff;
+}
+
+
+td, th {
+  position: relative;
+  outline: 0;
+}
+
+body:not(.nohover) tbody tr:hover {
+  background-color: #d5fdd8;
+}
+
+td:hover::after,
+thead th:not(:empty):hover::after,
+td:focus::after,
+thead th:not(:empty):focus::after { 
+  content: '';  
+  height: 10000px;
+  left: 0;
+  position: absolute;  
+  top: -5000px;
+  width: 100%;
+  z-index: -1;
+}
+
+td:hover::after,
+th:hover::after {
+  background-color: #d5fdd8;
+}
+

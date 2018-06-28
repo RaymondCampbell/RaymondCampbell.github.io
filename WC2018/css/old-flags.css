@@ -1,0 +1,153 @@
+.team {
+  position: relative;
+  display: inline-block;
+  line-height: 1em;
+  background-size: contain;
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-left: 1.75em;
+}
+.country {
+  position: relative;
+  display: inline-block;
+  line-height: 1em;
+  background-size: contain;
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-left: 1.75em;
+}
+.flag-ar {
+  background-image: url(../flags/4x3/ar.svg);
+}
+.flag-al {
+  background-image: url(../flags/4x3/al.svg);
+}
+.flag-at {
+  background-image: url(../flags/4x3/at.svg);
+}
+.flag-ro {
+  background-image: url(../flags/4x3/ro.svg);
+}
+.flag-pl {
+  background-image: url(../flags/4x3/pl.svg);
+}
+.flag-ua {
+  background-image: url(../flags/4x3/ua.svg);
+}
+.flag-hu {
+  background-image: url(../flags/4x3/hu.svg);
+}
+.flag-is {
+  background-image: url(../flags/4x3/is.svg);
+}
+.flag-hr {
+  background-image: url(../flags/4x3/hr.svg);
+}
+.flag-ie {
+  background-image: url(../flags/4x3/ie.svg);
+}
+.flag-tr {
+  background-image: url(../flags/4x3/tr.svg);
+}
+.flag-se {
+  background-image: url(../flags/4x3/se.svg);
+}
+.flag-sk {
+  background-image: url(../flags/4x3/sk.svg);
+}
+.flag-ni {
+  background-image: url(../flags/4x3/ni.svg);
+}
+.flag-ws {
+  background-image: url(../flags/4x3/ws.svg);
+}
+.flag-au {
+  background-image: url(../flags/4x3/au.svg);
+}
+.flag-ba {
+  background-image: url(../flags/4x3/ba.svg);
+}
+.flag-be {
+  background-image: url(../flags/4x3/be.svg);
+}
+.flag-br {
+  background-image: url(../flags/4x3/br.svg);
+}
+.flag-ch {
+  background-image: url(../flags/4x3/ch.svg);
+}
+.flag-ci {
+  background-image: url(../flags/4x3/ci.svg);
+}
+.flag-cl {
+  background-image: url(../flags/4x3/cl.svg);
+}
+.flag-cm {
+  background-image: url(../flags/4x3/cm.svg);
+}
+.flag-co {
+  background-image: url(../flags/4x3/co.svg);
+}
+.flag-cr {
+  background-image: url(../flags/4x3/cr.svg);
+}
+.flag-de {
+  background-image: url(../flags/4x3/de.svg);
+}
+.flag-dz {
+  background-image: url(../flags/4x3/dz.svg);
+}
+.flag-ec {
+  background-image: url(../flags/4x3/ec.svg);
+}
+.flag-en {
+  background-image: url(../flags/4x3/en.svg);
+}
+.flag-es {
+  background-image: url(../flags/4x3/es.svg);
+}
+.flag-fr {
+  background-image: url(../flags/4x3/fr.svg);
+}
+.flag-gh {
+  background-image: url(../flags/4x3/gh.svg);
+}
+.flag-gr {
+  background-image: url(../flags/4x3/gr.svg);
+}
+.flag-hn {
+  background-image: url(../flags/4x3/hn.svg);
+}
+.flag-ir {
+  background-image: url(../flags/4x3/ir.svg);
+}
+.flag-it {
+  background-image: url(../flags/4x3/it.svg);
+}
+.flag-jp {
+  background-image: url(../flags/4x3/jp.svg);
+}
+.flag-kr {
+  background-image: url(../flags/4x3/kr.svg);
+}
+.flag-mx {
+  background-image: url(../flags/4x3/mx.svg);
+}
+.flag-ng {
+  background-image: url(../flags/4x3/ng.svg);
+}
+.flag-nl {
+  background-image: url(../flags/4x3/nl.svg);
+}
+.flag-pt {
+  background-image: url(../flags/4x3/pt.svg);
+}
+.flag-ru {
+  background-image: url(../flags/4x3/ru.svg);
+}
+.flag-us {
+  background-image: url(../flags/4x3/us.svg);
+}
+.flag-uy {
+  background-image: url(../flags/4x3/uy.svg);
+}
