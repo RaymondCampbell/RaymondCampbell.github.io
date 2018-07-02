@@ -111,3 +111,23 @@ thead th:not(:empty):focus::after {
 .prediction th:hover::after {
   background-color: #d5fdd8;
 }
+
+@media screen and (max-width: 1024px) {
+	table th:nth-child(2)  {
+		width: 150px;
+	}
+
+	.country {
+		width: 0px;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	table td {
+		padding 0px;	
+	} 
+
+	th.competitor:hover {
+		width: 100px
+	}
+}
